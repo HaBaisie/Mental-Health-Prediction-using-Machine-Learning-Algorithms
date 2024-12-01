@@ -1,0 +1,501 @@
+Age,Gender,MentalHealthCondition,EmploymentStatus,TreatmentAccess,Region,MentalHealthScore
+25-34,Female,None,Employed,No,South,3.1709111340055687
+55-64,Other,Bipolar Disorder,Retired,Yes,North,7.5897925042102266
+35-44,Other,Schizophrenia,Retired,Yes,West,3.6226526506489245
+18-24,Female,Schizophrenia,Other,Yes,East,3.607922675028157
+45-54,Other,Schizophrenia,Retired,Yes,South,4.670093841663725
+65+,Female,Depression,Employed,Yes,South,2.9439900784781026
+65+,Male,Depression,Unemployed,Yes,East,9.117122543068716
+18-24,Other,Schizophrenia,Retired,Yes,South,1.2403352714321096
+25-34,Other,Schizophrenia,Other,No,South,3.3910070143244098
+45-54,Male,Bipolar Disorder,Retired,No,West,9.395130135051716
+35-44,Female,Depression,Other,Yes,West,9.046435403656504
+55-64,Female,PTSD,Retired,No,West,9.623296562641519
+18-24,Other,Anxiety,Student,Yes,North,1.6940147262859218
+45-54,Other,Schizophrenia,Other,No,South,2.8628841869586967
+35-44,Male,Schizophrenia,Student,No,South,4.844735884836723
+35-44,Male,None,Student,Yes,South,6.806720545357183
+35-44,Other,None,Student,No,North,4.234841909339245
+25-34,Other,PTSD,Unemployed,Yes,South,2.715165185401142
+18-24,Female,Depression,Employed,Yes,South,9.857154403523513
+35-44,Other,Depression,Retired,No,North,5.4382741551534055
+35-44,Other,PTSD,Retired,No,West,2.9393308761054673
+18-24,Female,Schizophrenia,Unemployed,No,West,5.871666355105357
+65+,Other,Depression,Retired,No,West,8.192744637909094
+25-34,Other,Anxiety,Unemployed,Yes,East,6.859771859414982
+55-64,Female,Schizophrenia,Student,Yes,North,7.834555777074218
+35-44,Male,Schizophrenia,Student,Yes,East,9.510541031594475
+45-54,Female,None,Student,Yes,South,2.2132857696035937
+45-54,Male,None,Student,Yes,South,8.871659650501739
+25-34,Male,Bipolar Disorder,Employed,No,West,1.5634025293442768
+65+,Other,None,Employed,Yes,East,3.399525714301661
+55-64,Other,PTSD,Other,Yes,South,1.3888352944630924
+25-34,Male,Anxiety,Retired,Yes,West,7.598967285712073
+65+,Male,PTSD,Student,No,East,8.984401215326328
+18-24,Male,Anxiety,Unemployed,No,South,7.821373144048588
+18-24,Other,Depression,Unemployed,No,East,5.8775591607930915
+45-54,Male,Bipolar Disorder,Unemployed,Yes,East,4.790623923499848
+25-34,Other,Anxiety,Employed,Yes,South,9.379782158819072
+25-34,Male,PTSD,Retired,No,East,6.873392767759292
+35-44,Other,PTSD,Student,No,North,8.807750875135255
+55-64,Other,Schizophrenia,Other,No,East,8.67819620726397
+35-44,Other,PTSD,Employed,Yes,North,3.1707770335017407
+55-64,Male,Schizophrenia,Other,Yes,South,2.2324265206732994
+45-54,Other,Anxiety,Student,No,East,5.804379374273626
+18-24,Other,Schizophrenia,Other,Yes,West,4.787349501607665
+35-44,Female,PTSD,Student,Yes,East,9.812315425002925
+45-54,Male,Depression,Student,No,South,6.333370092759669
+65+,Male,Schizophrenia,Other,No,South,6.717765578188292
+35-44,Male,None,Student,No,South,5.7414802462119745
+65+,Male,Bipolar Disorder,Retired,No,East,2.7142633478077793
+65+,Other,Schizophrenia,Employed,No,South,6.308870830526711
+18-24,Other,PTSD,Other,No,East,3.018778238820449
+65+,Female,None,Other,No,West,8.200938741135992
+45-54,Male,Depression,Employed,No,North,1.0489641948095367
+35-44,Female,PTSD,Student,Yes,East,2.525619913013231
+45-54,Other,Bipolar Disorder,Other,Yes,South,3.2039589434616484
+45-54,Other,None,Other,No,North,8.705602628963002
+45-54,Female,Bipolar Disorder,Student,No,West,5.599759658987924
+55-64,Female,Depression,Other,Yes,North,7.140112662186416
+55-64,Male,Bipolar Disorder,Other,No,South,4.989361579855727
+65+,Male,PTSD,Unemployed,Yes,West,3.124175080160909
+45-54,Other,Schizophrenia,Unemployed,No,East,3.3219754064659517
+45-54,Male,PTSD,Unemployed,No,North,5.583092582839736
+45-54,Female,Anxiety,Unemployed,Yes,East,6.966888101577642
+25-34,Female,Anxiety,Employed,No,West,6.510892951572049
+18-24,Other,None,Retired,No,South,8.782185028685774
+35-44,Male,Anxiety,Employed,Yes,East,3.144802192711036
+35-44,Female,Depression,Unemployed,No,North,3.141826887973081
+65+,Female,PTSD,Unemployed,Yes,West,9.433674937220013
+35-44,Female,PTSD,Employed,Yes,North,8.628878968658759
+55-64,Male,None,Student,No,South,6.536063196207365
+65+,Female,Depression,Unemployed,Yes,East,2.5240075567979146
+18-24,Other,None,Employed,Yes,South,2.289721774363449
+18-24,Other,Depression,Student,No,North,3.5293615344024687
+55-64,Male,Schizophrenia,Employed,Yes,West,3.924622579122076
+25-34,Female,Bipolar Disorder,Unemployed,No,South,2.6149245503494734
+45-54,Male,Anxiety,Employed,Yes,South,2.1346105183327166
+45-54,Other,PTSD,Employed,No,West,5.381357298310765
+18-24,Male,Anxiety,Unemployed,Yes,South,3.436008754190827
+65+,Male,Anxiety,Other,Yes,East,5.175315736602729
+18-24,Male,None,Employed,Yes,North,8.446733359935259
+18-24,Male,Schizophrenia,Retired,Yes,North,3.014840963601217
+65+,Female,Bipolar Disorder,Student,Yes,West,6.978102700793077
+45-54,Female,Bipolar Disorder,Other,Yes,East,9.941218383597615
+55-64,Male,Anxiety,Employed,Yes,East,9.388966317737767
+65+,Female,None,Retired,Yes,North,3.4874017316044363
+25-34,Male,Depression,Employed,Yes,East,5.370418051130508
+25-34,Female,Depression,Other,Yes,North,4.255461309484021
+65+,Other,Anxiety,Employed,Yes,South,7.695216374344512
+65+,Other,Anxiety,Retired,Yes,North,6.058711660325387
+25-34,Female,None,Student,No,West,6.204326148835816
+65+,Female,Anxiety,Unemployed,No,North,3.9109510375613885
+65+,Other,Schizophrenia,Unemployed,Yes,West,3.2803821359198313
+45-54,Female,Schizophrenia,Retired,Yes,East,7.066727327409134
+25-34,Male,Bipolar Disorder,Unemployed,Yes,West,6.607612622917187
+18-24,Female,Schizophrenia,Employed,No,East,7.327521893679185
+65+,Other,Depression,Unemployed,No,North,2.617659535705739
+25-34,Other,None,Retired,Yes,South,8.849511929134152
+65+,Other,None,Retired,Yes,East,9.535574389699864
+45-54,Other,None,Employed,No,West,3.141393088299748
+35-44,Other,PTSD,Employed,Yes,North,4.585842059034935
+55-64,Male,None,Unemployed,Yes,North,3.704744345569275
+45-54,Other,Bipolar Disorder,Student,Yes,West,9.623384303517595
+35-44,Female,Schizophrenia,Student,Yes,South,7.572591915249699
+55-64,Male,None,Student,Yes,North,7.882896758548493
+35-44,Female,Bipolar Disorder,Student,No,East,2.259665428716742
+55-64,Other,PTSD,Student,No,East,1.1009403322871496
+65+,Other,Depression,Retired,Yes,West,8.104839740292395
+65+,Male,Schizophrenia,Employed,Yes,South,1.8781949695733058
+35-44,Male,Depression,Employed,Yes,South,4.817110284270802
+45-54,Female,Anxiety,Retired,No,North,4.50115346168398
+35-44,Other,Schizophrenia,Retired,No,South,2.9894261823627524
+18-24,Female,Schizophrenia,Other,Yes,East,5.026684017660378
+18-24,Female,Schizophrenia,Unemployed,Yes,South,2.487882761732443
+35-44,Male,Schizophrenia,Employed,Yes,North,7.654548351723742
+45-54,Male,Bipolar Disorder,Student,No,North,6.670361966490502
+45-54,Female,Bipolar Disorder,Student,Yes,North,4.628699914918803
+55-64,Other,None,Employed,Yes,East,1.2593014684496628
+55-64,Male,Bipolar Disorder,Student,No,South,9.032272596519082
+25-34,Female,Anxiety,Retired,No,North,8.900123272356055
+55-64,Female,None,Employed,No,South,6.757950214320232
+25-34,Female,Anxiety,Employed,Yes,West,1.971902188327852
+65+,Male,PTSD,Other,No,West,3.634275352046866
+18-24,Other,None,Unemployed,No,North,7.385975330959658
+35-44,Female,Depression,Retired,No,West,5.788508568760234
+25-34,Male,PTSD,Retired,Yes,South,1.0292735903538541
+55-64,Other,Bipolar Disorder,Employed,Yes,North,8.14413005255513
+18-24,Male,Bipolar Disorder,Unemployed,No,South,7.795651798013025
+18-24,Female,Anxiety,Employed,Yes,West,7.963089197854389
+18-24,Other,PTSD,Retired,No,South,5.978228482199609
+35-44,Other,Anxiety,Other,No,North,6.181379824367205
+55-64,Male,None,Retired,Yes,North,4.705932412354017
+35-44,Female,Bipolar Disorder,Employed,Yes,North,7.513721575203213
+45-54,Other,PTSD,Other,No,South,9.022916318393687
+25-34,Other,None,Retired,No,North,7.4130801288510515
+55-64,Other,PTSD,Other,Yes,South,8.475085152097343
+45-54,Female,Bipolar Disorder,Unemployed,No,West,4.388210697206532
+25-34,Female,PTSD,Employed,No,East,5.569399455388799
+45-54,Other,Depression,Employed,Yes,North,1.8206888716908476
+55-64,Female,Bipolar Disorder,Retired,No,West,2.681213298378659
+18-24,Other,None,Other,Yes,East,7.8288358867742955
+35-44,Other,Depression,Other,Yes,West,3.4501752920189404
+35-44,Other,Depression,Retired,Yes,East,9.560479672704403
+25-34,Male,PTSD,Unemployed,No,South,2.2642400517860946
+65+,Other,None,Employed,Yes,West,7.179215291221329
+25-34,Male,Schizophrenia,Employed,No,South,7.2665301045232695
+25-34,Other,PTSD,Other,No,East,9.537154320411203
+35-44,Other,None,Student,Yes,South,2.461736175985387
+65+,Male,Schizophrenia,Student,Yes,North,9.459264020745094
+55-64,Other,Anxiety,Other,Yes,South,9.669702654444153
+35-44,Female,Bipolar Disorder,Student,Yes,North,4.752234752191804
+55-64,Male,PTSD,Student,No,North,8.002198092355336
+55-64,Male,None,Employed,No,West,6.261022902302222
+65+,Other,Bipolar Disorder,Retired,Yes,West,7.382899436767883
+25-34,Female,Anxiety,Employed,Yes,South,4.077796601121635
+35-44,Female,Depression,Student,Yes,West,7.440440153150409
+18-24,Male,Depression,Unemployed,Yes,South,8.451497777333525
+65+,Female,Depression,Student,No,West,1.4934592737747723
+45-54,Other,Bipolar Disorder,Retired,No,South,7.461613682630656
+65+,Female,PTSD,Student,No,South,7.5365442600843195
+65+,Female,PTSD,Unemployed,Yes,South,3.353494628472175
+65+,Other,None,Retired,No,East,9.990234687201362
+45-54,Female,Anxiety,Retired,Yes,North,9.557621973886212
+25-34,Male,Schizophrenia,Retired,Yes,West,3.1971862936842044
+25-34,Male,Depression,Retired,Yes,East,1.125976643011438
+45-54,Female,None,Other,Yes,East,4.84198250275392
+25-34,Female,Bipolar Disorder,Student,Yes,North,2.224891078555416
+35-44,Male,Bipolar Disorder,Other,Yes,West,1.0462217159398692
+65+,Female,Bipolar Disorder,Employed,No,East,9.849280736814766
+55-64,Female,None,Unemployed,Yes,East,1.8089875173930952
+25-34,Other,Schizophrenia,Other,Yes,North,2.811643069387486
+35-44,Female,None,Employed,Yes,West,9.378807546450945
+65+,Female,Depression,Other,Yes,North,5.543198673975628
+25-34,Female,Schizophrenia,Other,Yes,East,7.464801011072375
+45-54,Other,Schizophrenia,Student,Yes,West,1.3773884966543832
+25-34,Other,Bipolar Disorder,Employed,No,West,2.4419867565324966
+35-44,Other,PTSD,Retired,Yes,North,5.2315393508789
+25-34,Female,PTSD,Other,No,North,7.223192118109841
+65+,Female,Depression,Employed,No,West,2.672179561496323
+55-64,Other,Anxiety,Unemployed,Yes,West,9.781343662246467
+18-24,Other,Schizophrenia,Retired,Yes,West,9.11291697042184
+55-64,Other,None,Employed,Yes,East,9.762832777664945
+35-44,Male,None,Retired,Yes,West,4.615281556326918
+65+,Female,Schizophrenia,Employed,Yes,North,9.69044146514528
+65+,Male,Anxiety,Unemployed,No,West,8.301037786462427
+35-44,Male,Depression,Other,Yes,West,5.998729535523577
+18-24,Male,Bipolar Disorder,Retired,Yes,West,1.611229613764165
+25-34,Other,PTSD,Employed,No,North,6.783792201082192
+35-44,Other,None,Employed,Yes,West,6.951834346732253
+35-44,Other,Depression,Unemployed,No,North,3.1025741313946047
+25-34,Female,None,Student,Yes,West,9.042478234385007
+55-64,Female,Anxiety,Student,No,North,7.329193921445964
+45-54,Female,Schizophrenia,Retired,No,West,7.764750885741201
+25-34,Male,Anxiety,Unemployed,No,East,1.6205277750718048
+18-24,Other,Anxiety,Other,Yes,South,4.197811106115669
+18-24,Male,Depression,Retired,Yes,East,8.221251222493674
+18-24,Other,Anxiety,Unemployed,No,North,7.602245289907533
+65+,Male,Depression,Retired,Yes,West,6.784706597002034
+55-64,Male,Bipolar Disorder,Retired,Yes,West,8.165040512410602
+65+,Female,Bipolar Disorder,Other,Yes,South,3.15377031250629
+45-54,Female,Bipolar Disorder,Employed,Yes,North,3.7410602924216887
+25-34,Other,Bipolar Disorder,Employed,Yes,West,8.009512250901114
+45-54,Other,Anxiety,Retired,Yes,South,5.992402907002086
+25-34,Male,Bipolar Disorder,Employed,No,East,6.767926677564914
+45-54,Male,Schizophrenia,Other,Yes,South,6.339175421576609
+35-44,Female,Anxiety,Retired,No,North,8.865804313661675
+18-24,Other,Bipolar Disorder,Other,Yes,West,3.8318713580896326
+25-34,Male,Schizophrenia,Retired,Yes,South,3.2077312900323727
+65+,Female,Bipolar Disorder,Employed,Yes,West,6.461683716656925
+45-54,Other,Schizophrenia,Other,No,West,4.912117211754261
+18-24,Female,Depression,Student,Yes,North,4.949820432325533
+45-54,Female,PTSD,Retired,Yes,West,3.941417369211692
+45-54,Male,Anxiety,Other,Yes,North,3.6049427318672786
+18-24,Other,Schizophrenia,Other,No,South,8.875827061114872
+25-34,Female,PTSD,Employed,No,South,3.039204361199191
+45-54,Other,PTSD,Student,Yes,East,5.605260894592074
+45-54,Other,Depression,Unemployed,Yes,East,7.7548705391501835
+55-64,Male,Depression,Retired,No,South,5.478440333917689
+25-34,Male,None,Retired,No,North,5.71785165597981
+45-54,Male,PTSD,Other,Yes,East,6.504330151364289
+65+,Other,PTSD,Retired,Yes,East,8.74260568877218
+25-34,Female,PTSD,Retired,No,West,5.716742992392032
+18-24,Male,PTSD,Employed,Yes,North,5.307215846217254
+35-44,Other,Schizophrenia,Unemployed,Yes,North,8.573182159732097
+45-54,Female,Schizophrenia,Other,No,East,4.078821967538003
+35-44,Other,Anxiety,Retired,No,East,3.823592445569196
+45-54,Female,Bipolar Disorder,Other,Yes,North,2.651384274642578
+18-24,Male,Depression,Employed,Yes,West,3.7636959886626418
+55-64,Male,Anxiety,Other,No,East,9.055982292234148
+55-64,Other,Bipolar Disorder,Retired,Yes,East,9.36087499530421
+45-54,Male,PTSD,Other,No,North,3.191751510937736
+25-34,Male,PTSD,Retired,Yes,North,6.969747467856608
+35-44,Male,Schizophrenia,Student,Yes,North,5.780232332219884
+45-54,Other,Schizophrenia,Employed,No,West,1.0066981874602496
+35-44,Male,Schizophrenia,Retired,Yes,West,8.304795956484016
+65+,Female,Depression,Other,No,East,3.8523569667245945
+45-54,Other,Bipolar Disorder,Employed,No,South,6.8338821541026755
+55-64,Female,Bipolar Disorder,Retired,No,West,4.991043975895986
+18-24,Other,Schizophrenia,Student,Yes,North,7.699852530106056
+45-54,Female,PTSD,Retired,Yes,South,1.8801468109154502
+55-64,Male,Depression,Student,No,North,4.953518657413997
+35-44,Male,Anxiety,Retired,No,South,2.9163831307629526
+25-34,Female,PTSD,Employed,No,East,8.53752643005581
+35-44,Female,Depression,Unemployed,Yes,East,7.974413833826609
+18-24,Male,None,Retired,Yes,West,5.791687863860984
+18-24,Other,Depression,Retired,No,West,9.029062635304351
+35-44,Male,Anxiety,Other,Yes,West,6.414077063391872
+55-64,Male,Schizophrenia,Unemployed,Yes,East,8.96638438144952
+35-44,Other,Anxiety,Student,No,North,7.542315399576504
+18-24,Female,Bipolar Disorder,Retired,Yes,East,4.690609029579528
+55-64,Other,Anxiety,Unemployed,Yes,North,9.875417111296404
+25-34,Male,Anxiety,Student,No,East,8.73741685786637
+35-44,Female,Schizophrenia,Other,No,East,3.704265249995158
+45-54,Female,PTSD,Retired,Yes,West,1.334262605445259
+35-44,Female,PTSD,Student,No,North,2.1722599776315885
+65+,Male,None,Student,Yes,West,3.6770447832642086
+18-24,Male,PTSD,Student,Yes,East,9.725377109529092
+25-34,Other,Schizophrenia,Unemployed,Yes,East,8.712806311522563
+45-54,Male,PTSD,Retired,No,East,3.7325703830973027
+45-54,Female,Bipolar Disorder,Employed,No,West,6.3315716426197675
+45-54,Female,Depression,Unemployed,No,East,6.416538581986257
+65+,Female,Anxiety,Student,Yes,West,8.080273329649582
+55-64,Male,PTSD,Retired,Yes,North,8.001284534033715
+18-24,Other,PTSD,Employed,Yes,North,1.61295364261658
+18-24,Male,Depression,Employed,Yes,East,6.887227278201968
+55-64,Male,Bipolar Disorder,Retired,No,East,8.176684223583841
+45-54,Male,None,Employed,Yes,North,6.943156117033793
+55-64,Male,PTSD,Retired,No,West,3.98129291055115
+25-34,Female,Schizophrenia,Other,Yes,South,9.860410581045459
+45-54,Female,PTSD,Student,No,North,6.6973519229027
+18-24,Other,None,Other,No,South,2.658737720474317
+35-44,Male,Bipolar Disorder,Employed,No,West,9.386337602489736
+55-64,Male,Anxiety,Unemployed,No,West,8.341248373666728
+18-24,Other,None,Retired,No,West,6.0550420483190415
+55-64,Other,PTSD,Student,No,East,2.8081746560091783
+35-44,Male,Bipolar Disorder,Employed,No,North,6.0028680200635485
+65+,Other,None,Unemployed,Yes,East,1.9766722930592668
+55-64,Male,PTSD,Employed,No,West,8.198609075214542
+25-34,Male,Depression,Retired,Yes,East,6.698758521726035
+55-64,Male,Depression,Retired,Yes,East,2.8726433543013696
+65+,Male,PTSD,Employed,No,South,6.027499506664222
+65+,Female,Schizophrenia,Employed,No,East,6.992829117456619
+55-64,Female,Bipolar Disorder,Employed,Yes,South,1.2169017852504784
+25-34,Other,Anxiety,Employed,No,North,6.864213476332193
+65+,Other,Schizophrenia,Other,No,East,7.558990366384862
+45-54,Male,PTSD,Retired,No,South,3.60108721754236
+18-24,Female,PTSD,Student,No,West,1.4777622460973094
+35-44,Male,None,Employed,No,West,1.611661696350887
+35-44,Male,Schizophrenia,Other,Yes,East,5.657137326119745
+18-24,Other,Anxiety,Unemployed,Yes,North,8.537079838898837
+55-64,Female,Anxiety,Retired,No,East,7.829563909417406
+25-34,Other,None,Unemployed,No,West,4.588705860742856
+45-54,Female,Schizophrenia,Unemployed,Yes,East,2.9003505047712066
+55-64,Female,None,Employed,No,East,3.8765648483573214
+25-34,Female,None,Student,Yes,North,5.320773760014872
+65+,Other,Depression,Retired,Yes,South,5.4355464840156635
+65+,Female,PTSD,Retired,Yes,West,5.815693156700809
+25-34,Male,PTSD,Student,No,East,3.5675811961399324
+25-34,Female,PTSD,Student,Yes,North,2.524974747196905
+55-64,Male,Depression,Retired,No,West,3.7485686204755684
+18-24,Female,Schizophrenia,Student,Yes,North,2.6861731438563337
+65+,Female,PTSD,Employed,No,North,3.270667063810264
+45-54,Male,Anxiety,Employed,Yes,West,6.383287172470174
+25-34,Male,Schizophrenia,Unemployed,No,East,1.2148669053178112
+55-64,Female,Bipolar Disorder,Retired,Yes,South,7.908791205239008
+55-64,Other,Schizophrenia,Employed,No,East,8.09959364880445
+18-24,Male,Anxiety,Retired,No,South,7.974006662990437
+35-44,Male,PTSD,Employed,No,East,1.4201324569457214
+55-64,Male,Anxiety,Other,Yes,West,3.037875822448125
+25-34,Other,Schizophrenia,Other,Yes,North,7.591124111504058
+55-64,Male,Schizophrenia,Other,No,West,6.055365710996891
+25-34,Male,Bipolar Disorder,Unemployed,No,West,3.960322393174044
+35-44,Other,Depression,Retired,No,East,1.7169859258076845
+65+,Male,Depression,Unemployed,No,North,4.0153598354466
+65+,Male,Depression,Retired,Yes,North,1.7607874592386368
+55-64,Male,Anxiety,Employed,No,South,5.873648681403704
+45-54,Male,Schizophrenia,Unemployed,Yes,North,5.702921585469487
+65+,Male,Anxiety,Other,No,South,8.028951550183223
+18-24,Male,Depression,Employed,Yes,South,2.684840316058491
+25-34,Other,Anxiety,Other,Yes,East,4.3108854679498725
+55-64,Male,Bipolar Disorder,Student,Yes,East,9.487446926737826
+25-34,Female,Depression,Unemployed,Yes,North,9.056947746684889
+65+,Female,PTSD,Unemployed,Yes,East,3.3033233811825324
+25-34,Female,None,Student,Yes,West,4.985351003454324
+18-24,Male,PTSD,Retired,Yes,South,8.803183685072614
+25-34,Male,Anxiety,Unemployed,Yes,West,4.563603842393129
+35-44,Female,Bipolar Disorder,Other,No,North,5.393310116116691
+25-34,Other,PTSD,Student,No,East,2.9067601090756403
+18-24,Female,Depression,Other,Yes,East,2.115865067687867
+25-34,Male,Bipolar Disorder,Employed,Yes,South,7.625431515314071
+35-44,Other,Schizophrenia,Retired,Yes,South,6.871472093578421
+55-64,Female,Anxiety,Student,No,South,2.470939467751079
+65+,Other,None,Student,No,West,5.347881618111197
+18-24,Other,PTSD,Retired,No,North,6.367237354212462
+55-64,Female,Depression,Unemployed,No,West,8.476712175975237
+55-64,Male,PTSD,Retired,Yes,North,9.160946993521241
+18-24,Female,Depression,Student,No,West,7.993312420120057
+35-44,Male,Bipolar Disorder,Other,No,West,7.672806118168289
+65+,Male,Anxiety,Student,Yes,North,6.0159013645382835
+55-64,Female,Bipolar Disorder,Unemployed,No,North,3.6744682303861524
+18-24,Other,Anxiety,Student,Yes,West,7.863874915650244
+65+,Male,Schizophrenia,Retired,Yes,East,8.483161070654354
+45-54,Female,None,Other,No,West,6.309746484300813
+45-54,Other,Schizophrenia,Other,No,North,4.1705874805199326
+25-34,Male,Schizophrenia,Unemployed,No,East,9.92379102323234
+35-44,Female,Depression,Unemployed,No,North,5.902273991968652
+55-64,Male,Schizophrenia,Unemployed,Yes,East,2.665392271126325
+45-54,Male,Schizophrenia,Student,Yes,West,4.659207991371694
+55-64,Female,Schizophrenia,Retired,Yes,South,5.6247093590111445
+35-44,Male,Anxiety,Other,No,South,4.088420737706322
+18-24,Female,Depression,Employed,Yes,West,5.30977433431412
+65+,Female,PTSD,Student,Yes,West,2.4716159917362286
+45-54,Other,Bipolar Disorder,Retired,No,South,8.17443022976824
+65+,Female,Anxiety,Student,Yes,South,2.65245737230859
+55-64,Other,PTSD,Student,No,South,8.544658841009982
+18-24,Female,Schizophrenia,Unemployed,Yes,West,7.2630941030615235
+45-54,Female,Depression,Employed,Yes,North,3.596852302514943
+18-24,Other,Bipolar Disorder,Unemployed,Yes,East,6.034123446164713
+55-64,Male,Depression,Student,Yes,South,9.55461905070831
+45-54,Male,Bipolar Disorder,Unemployed,No,West,8.626769415316176
+55-64,Male,PTSD,Retired,No,North,4.517702558148948
+65+,Male,Depression,Retired,No,East,9.334789637041888
+25-34,Male,Bipolar Disorder,Unemployed,No,West,5.643699001777943
+25-34,Female,Schizophrenia,Retired,No,East,7.617668707560749
+45-54,Female,Depression,Employed,Yes,East,2.910787862951474
+55-64,Female,Schizophrenia,Student,Yes,North,4.205186874493763
+45-54,Female,Depression,Student,Yes,West,4.849108546898789
+18-24,Female,PTSD,Employed,Yes,East,1.0067223450758105
+25-34,Female,Bipolar Disorder,Retired,Yes,East,4.142281841906597
+65+,Female,Anxiety,Retired,Yes,West,9.170939472400418
+18-24,Other,PTSD,Retired,Yes,East,4.390005973765113
+65+,Other,Anxiety,Employed,Yes,West,5.538693255942915
+18-24,Male,None,Employed,Yes,East,8.277947077995654
+25-34,Male,Anxiety,Unemployed,Yes,East,2.6425690572769067
+18-24,Other,Anxiety,Other,No,West,5.887593626231335
+35-44,Other,PTSD,Retired,No,West,4.620536524832894
+25-34,Other,Depression,Other,No,West,3.9376277315374875
+35-44,Other,Bipolar Disorder,Employed,No,South,6.429091722701697
+45-54,Other,Schizophrenia,Employed,Yes,North,4.858158166670822
+55-64,Male,Depression,Retired,Yes,East,9.4563763979034
+35-44,Female,PTSD,Other,Yes,West,8.22265933436178
+35-44,Female,Depression,Employed,No,East,7.526866973463808
+25-34,Other,PTSD,Unemployed,Yes,West,1.621867863794245
+55-64,Other,None,Retired,Yes,East,3.201051738522614
+45-54,Female,Schizophrenia,Student,Yes,North,7.9363294192497555
+18-24,Female,PTSD,Other,No,West,4.013556241270638
+35-44,Male,Depression,Student,No,West,2.847601562878
+65+,Male,Schizophrenia,Student,Yes,South,1.02515899182817
+25-34,Other,None,Student,Yes,East,9.95578566234653
+55-64,Female,Bipolar Disorder,Other,No,South,9.894165388997866
+18-24,Other,Bipolar Disorder,Employed,No,East,7.711539482819966
+35-44,Male,PTSD,Retired,Yes,East,1.4612415281534008
+55-64,Male,None,Unemployed,No,East,1.8643750158613464
+45-54,Other,Schizophrenia,Unemployed,Yes,West,3.9534900976750302
+65+,Other,Depression,Other,Yes,West,3.644937430543348
+25-34,Female,Anxiety,Unemployed,No,North,4.51280634185283
+55-64,Male,Bipolar Disorder,Student,No,East,1.6260846433126692
+45-54,Other,Depression,Retired,Yes,North,2.729063281433598
+18-24,Male,Depression,Retired,Yes,North,9.786942586320368
+45-54,Other,Depression,Retired,Yes,West,5.87092968564381
+35-44,Other,PTSD,Retired,No,North,6.754415818494723
+35-44,Other,Bipolar Disorder,Employed,No,East,5.428153755398279
+65+,Male,Anxiety,Unemployed,No,West,2.1411642994714977
+35-44,Other,Bipolar Disorder,Retired,Yes,North,5.859981879625719
+55-64,Male,Depression,Retired,Yes,West,3.2287469831252227
+65+,Female,Depression,Retired,Yes,East,3.2050787944760697
+18-24,Male,Schizophrenia,Other,No,North,2.1231066700215226
+18-24,Male,Depression,Other,No,East,8.825982566070227
+55-64,Other,None,Retired,No,West,7.045437899655981
+18-24,Male,Anxiety,Unemployed,No,South,9.831675223696417
+55-64,Female,Schizophrenia,Retired,No,South,9.95132066097565
+65+,Other,PTSD,Retired,No,South,1.4369386204942312
+35-44,Female,None,Unemployed,Yes,East,5.782511174976527
+65+,Other,None,Other,Yes,North,5.4846958689965435
+25-34,Female,PTSD,Employed,No,West,9.18592497201884
+25-34,Male,None,Student,No,South,9.392104626653108
+45-54,Other,Schizophrenia,Other,Yes,South,3.4993110649039565
+45-54,Male,Anxiety,Unemployed,No,West,3.33460898961624
+45-54,Male,None,Other,No,West,7.885897896748957
+65+,Male,Depression,Retired,Yes,North,4.70875782061867
+55-64,Male,PTSD,Retired,No,West,9.550023395912174
+65+,Female,Bipolar Disorder,Student,Yes,East,1.503431660255509
+35-44,Male,Depression,Unemployed,Yes,North,1.1047804729045825
+55-64,Female,Schizophrenia,Retired,No,West,4.942882613735538
+65+,Male,None,Student,Yes,West,8.341643889126567
+55-64,Other,None,Unemployed,No,South,1.978829701049857
+45-54,Female,PTSD,Student,Yes,South,6.381773808211018
+18-24,Other,Anxiety,Other,No,North,4.244100167721793
+55-64,Female,PTSD,Employed,No,West,9.56481551463687
+45-54,Male,Depression,Other,Yes,South,8.830303127719224
+18-24,Male,PTSD,Retired,Yes,West,6.487944740313127
+18-24,Female,None,Other,Yes,East,5.102619001803175
+65+,Female,Depression,Unemployed,No,North,5.127911970059008
+18-24,Other,Anxiety,Student,Yes,North,7.8932989235362285
+65+,Female,Schizophrenia,Unemployed,Yes,West,4.738143318396492
+65+,Other,None,Employed,Yes,North,4.018288924538245
+55-64,Male,Depression,Unemployed,No,South,6.041364602992607
+55-64,Other,Depression,Unemployed,No,South,9.674582886965183
+35-44,Female,Bipolar Disorder,Unemployed,No,West,6.390768506521983
+55-64,Other,None,Employed,Yes,East,2.4653584000899103
+65+,Female,Depression,Student,No,North,8.937293505964858
+55-64,Other,Depression,Employed,No,South,4.115722309453208
+35-44,Male,Schizophrenia,Unemployed,No,West,7.024416456699397
+65+,Other,Bipolar Disorder,Retired,Yes,South,6.524667260555968
+35-44,Other,Bipolar Disorder,Student,Yes,West,8.676220366151423
+25-34,Male,Depression,Other,Yes,West,4.896957154222797
+45-54,Male,Anxiety,Retired,Yes,West,4.57741270583799
+18-24,Male,None,Student,Yes,South,3.637081674124496
+45-54,Male,Schizophrenia,Student,No,South,1.6545684967928789
+25-34,Other,Bipolar Disorder,Employed,Yes,East,5.392935408526764
+45-54,Other,Depression,Employed,Yes,South,6.289065234903246
+45-54,Male,Depression,Unemployed,Yes,South,9.13316145172263
+55-64,Female,Depression,Retired,Yes,South,5.343670029175603
+45-54,Male,Bipolar Disorder,Retired,Yes,South,8.921349611131504
+65+,Male,None,Other,Yes,East,3.1910011070604525
+65+,Other,Depression,Other,Yes,West,6.688880571667419
+45-54,Other,Anxiety,Employed,Yes,North,3.5471242660368016
+55-64,Female,Bipolar Disorder,Retired,Yes,North,2.565907920054475
+45-54,Other,Schizophrenia,Other,No,East,9.542417068163823
+25-34,Other,Bipolar Disorder,Student,Yes,East,8.674649750853524
+18-24,Male,Depression,Student,No,East,7.162059142052266
+18-24,Other,None,Employed,Yes,North,2.4987844411689264
+55-64,Other,PTSD,Retired,Yes,South,2.6917245375261185
+35-44,Other,Schizophrenia,Other,Yes,East,3.613582022688112
+55-64,Male,Bipolar Disorder,Employed,Yes,South,2.835318128146585
+45-54,Male,None,Unemployed,Yes,West,9.098181369364289
+55-64,Other,PTSD,Employed,Yes,West,2.645189653339614
+45-54,Other,Anxiety,Retired,Yes,South,1.7708197616176191
+55-64,Male,PTSD,Unemployed,No,West,6.745811864057095
+25-34,Male,PTSD,Retired,Yes,West,6.341400348970768
+45-54,Female,Depression,Unemployed,No,North,9.49287508201349
+65+,Male,PTSD,Unemployed,Yes,South,8.763826247806536
+35-44,Other,Bipolar Disorder,Student,No,North,6.998013930474055
+18-24,Male,Anxiety,Employed,No,West,2.694062483465422
+55-64,Other,Schizophrenia,Unemployed,Yes,South,7.6932528014363415
+45-54,Male,Depression,Retired,Yes,West,9.942916221840964
+18-24,Male,Anxiety,Employed,Yes,North,5.226997878576926
+45-54,Male,Schizophrenia,Other,No,North,9.245101779336132
+45-54,Other,Depression,Unemployed,Yes,North,9.251947794095363
+45-54,Male,None,Other,Yes,West,4.0226131122282185
+18-24,Male,None,Employed,No,East,7.88225775480097
+35-44,Female,Anxiety,Student,Yes,South,7.779915380075931
+65+,Male,Depression,Other,Yes,West,6.469620573360562
+25-34,Male,PTSD,Other,Yes,East,4.6015673001980515
+65+,Female,Anxiety,Student,No,West,5.571088957218458
+25-34,Male,Anxiety,Employed,No,West,6.840039457696881
+45-54,Female,None,Student,No,West,8.019135812228921
+25-34,Other,Bipolar Disorder,Employed,No,North,9.864291499513593
+45-54,Male,PTSD,Other,No,South,6.496872628548804
+45-54,Other,None,Unemployed,Yes,North,7.175348204000276
+55-64,Female,PTSD,Other,Yes,East,2.136728902030293
+35-44,Male,Bipolar Disorder,Retired,No,East,7.644220824850887
+45-54,Male,None,Student,No,North,6.793832093436673
+25-34,Other,PTSD,Student,Yes,West,9.217200359684583
+35-44,Male,Schizophrenia,Unemployed,No,West,2.0160444438213263
+45-54,Male,None,Retired,Yes,South,5.891188638434284
+35-44,Male,Bipolar Disorder,Retired,No,South,1.1367457157681282
+55-64,Female,PTSD,Unemployed,No,East,1.2113473716470464
+25-34,Other,PTSD,Retired,Yes,West,9.217161711596015
+65+,Female,PTSD,Employed,Yes,East,4.948647111052603
+55-64,Female,Anxiety,Student,Yes,East,9.646896323256527
